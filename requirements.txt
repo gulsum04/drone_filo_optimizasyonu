@@ -1,4 +1,1 @@
 matplotlib
-networkx
-python-constraint
-deap
