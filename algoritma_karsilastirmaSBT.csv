@@ -1,0 +1,4 @@
+Algoritma,Teslimat,Enerji,Şarj(dk),Skor,Süre(sn)
+A*,5,5131.17,0,-4631.17,0.01
+CSP+A*,0,0,0,0,0
+GA,5,6465.21,100,-5973.49,0.49
