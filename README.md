@@ -77,25 +77,4 @@ Günümüzde drone teknolojisi, lojistik ve teslimat hizmetlerinde önemli bir y
 
 ---
 
-![SABİT VERİ senaryo0](https://github.com/user-attachments/assets/6b77fb11-f3a2-4d30-87ef-2196d411cc2a)
 
-
-**Sabit Veriyle Tüm Algoritma Testleri**
-#
-![DİNAMİK VERİ senaryo1](https://github.com/user-attachments/assets/1b8b471d-03de-4484-97a9-8b4929667b8b)
-
-
-**Dinamik Veriyle Tüm Algoritma Testleri**
-#
-![DİNAMİK VERİ senaryo2](https://github.com/user-attachments/assets/8bd9c2ed-75a1-4d1e-aba3-16679656d6f9)
-
-
-
-**Dinamik Veriyle 10 drone, 50 teslimat Senaryosu**
-#
-![senaryo3](https://github.com/user-attachments/assets/0eb578bb-c992-4431-a75a-f36397e187d9)
-
-
-
-**Dinamik Veriyle Min-Heap kullanarak öncelikli teslimatları sıralama Senaryosu**
-#
